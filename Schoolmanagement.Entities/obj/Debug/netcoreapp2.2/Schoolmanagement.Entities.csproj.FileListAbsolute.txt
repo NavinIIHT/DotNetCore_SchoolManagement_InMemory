@@ -1,0 +1,28 @@
+D:\IIHT\Task-9\School\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.deps.json
+D:\IIHT\Task-9\School\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
+D:\IIHT\Task-9\School\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
+D:\IIHT\Task-9\School\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.AssemblyInfoInputs.cache
+D:\IIHT\Task-9\School\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.AssemblyInfo.cs
+D:\IIHT\Task-9\School\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT\Task-9\School\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
+D:\IIHT\Task-9\School\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
+D:\IIHT\Task-9\School\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.csprojAssemblyReference.cache
+D:\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.deps.json
+D:\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
+D:\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
+D:\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.csprojAssemblyReference.cache
+D:\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.AssemblyInfoInputs.cache
+D:\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.AssemblyInfo.cs
+D:\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
+D:\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
+D:\IIHT DATA\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.deps.json
+D:\IIHT DATA\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
+D:\IIHT DATA\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
+D:\IIHT DATA\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.csproj.AssemblyReference.cache
+D:\IIHT DATA\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.AssemblyInfoInputs.cache
+D:\IIHT DATA\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.AssemblyInfo.cs
+D:\IIHT DATA\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
+D:\IIHT DATA\IIHT\Task-9\School_InMemory\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
